@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
