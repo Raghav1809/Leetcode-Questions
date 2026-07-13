@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [3110-score-of-a-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
