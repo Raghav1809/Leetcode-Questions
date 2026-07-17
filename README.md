@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
+| [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
