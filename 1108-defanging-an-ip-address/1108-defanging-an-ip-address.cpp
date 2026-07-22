@@ -6,7 +6,9 @@ public:
         for(char ch : address){
             if(ch == '.'){
                 ans += "[.]";
-            }else ans += ch;
+            }else{
+                ans += ch;
+            } 
         }
 
         return ans;
