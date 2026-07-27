@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
