@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
