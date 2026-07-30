@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
