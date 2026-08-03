@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
