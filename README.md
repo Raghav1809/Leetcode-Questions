@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Matrix
