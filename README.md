@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
