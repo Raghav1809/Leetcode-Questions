@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0441-arranging-coins) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2427-number-of-common-factors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
