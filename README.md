@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
