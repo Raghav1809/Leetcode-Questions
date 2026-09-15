@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0414-third-maximum-number) |
+| [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 ## Matrix
 |  |
 | ------- |
