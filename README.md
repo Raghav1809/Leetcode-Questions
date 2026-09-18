@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
