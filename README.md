@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
