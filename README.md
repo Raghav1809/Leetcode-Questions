@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3668-restore-finishing-order](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
