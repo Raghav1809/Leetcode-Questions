@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
