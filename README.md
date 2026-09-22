@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
