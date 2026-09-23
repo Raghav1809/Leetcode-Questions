@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
