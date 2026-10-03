@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1603-design-parking-system) |
 ## Stack
 |  |
 | ------- |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
