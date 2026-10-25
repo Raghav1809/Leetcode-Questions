@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0605-can-place-flowers) |
 | [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
