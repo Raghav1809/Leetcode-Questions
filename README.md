@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
+| [3467-transform-array-by-parity](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1603-design-parking-system) |
+| [3467-transform-array-by-parity](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 ## Stack
 |  |
 | ------- |
