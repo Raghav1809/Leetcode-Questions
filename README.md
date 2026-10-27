@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Raghav1809/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0888-fair-candy-swap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/Raghav1809/Leetcode-Questions/tree/master/2706-buy-two-chocolates) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
