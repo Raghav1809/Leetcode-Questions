@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Prefix Sum
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Raghav1809/Leetcode-Questions/tree/master/1025-divisor-game) |
